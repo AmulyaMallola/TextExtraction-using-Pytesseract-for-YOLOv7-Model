@@ -1,0 +1,1 @@
+# TextExtraction-using-Pytesseract-for-YOLOv7-Model
