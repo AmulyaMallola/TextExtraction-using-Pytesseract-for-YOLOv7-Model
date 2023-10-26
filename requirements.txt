@@ -1,0 +1,6 @@
+pip install os
+pip install pytesseract
+pip install cv2
+pip install shutil
+from pathlib import Path
+from PIL import Image
